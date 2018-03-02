@@ -2,7 +2,7 @@
 
 >  这是一个基于 vue & axios & nodejs(express)  & mongodb (mongoose) 的登录／注册demo。
 
-> 项目所用技术相关信息您可以浏览我的博客
+> 项目所用技术相关信息您可以浏览我的博客(https://luwenchun.github.io/)
 
 
 ## 项目技术栈
